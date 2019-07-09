@@ -1,0 +1,6 @@
+body {
+    background-color: lightsteelblue;
+}
+#inline {
+    display: inline-block;
+}
