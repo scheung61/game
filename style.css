@@ -10,3 +10,14 @@ body {
 .heading {
     font-family: Andale Mono, monospace;
 }
+.imgcharc {
+    width:286.5px;
+    height:240px;
+}
+.picture {
+    height: 350px;
+    width: 600px;
+}
+background {
+    opacity: 0.7;
+}
