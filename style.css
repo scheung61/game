@@ -1,7 +1,10 @@
 body {
     background-image: url("https://vxresource.files.wordpress.com/2010/07/scene01.jpg");
     background-size: 130% 250%;
-
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 #inline {
     display: inline-block;
@@ -11,7 +14,8 @@ body {
 }
 .heading {
     font-family: Andale Mono, monospace;
-    position: relative;
+    text-align: center;
+    color:  #003300
 }
 .imgcharc {
     width:286.5px;
@@ -21,4 +25,9 @@ body {
     height: 400px;
     width: 600px;
 }
-
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
