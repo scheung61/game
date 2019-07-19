@@ -15,7 +15,7 @@ body {
 .heading {
     font-family: Andale Mono, monospace;
     text-align: center;
-    color:  #003300
+    color: darkgreen
 }
 .imgcharc {
     width:286.5px;
@@ -27,7 +27,18 @@ body {
 }
 h1 {
     text-align: center;
+    color: darkgreen
 }
 h2 {
     text-align: center;
+    color: darkgreen
+}
+p {
+    color: black;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background: white
 }
