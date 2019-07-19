@@ -15,7 +15,11 @@ body {
 .heading {
     font-family: Andale Mono, monospace;
     text-align: center;
-    color: darkgreen
+    color: darkgreen;
+    padding: 50px;
+    border: 4px solid grey; 
+    background-color: rgba(202, 195, 195, 0.4);  
+    
 }
 .imgcharc {
     width:286.5px;
