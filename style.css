@@ -55,12 +55,8 @@ h2 {
 }
 #beggingtext {
     padding: 40px;
-<<<<<<< HEAD
-    background-color: rgba(233, 240, 235, 0.87);
-=======
     background-color: rgba(230, 235, 230, 0.753);
     border: 6px solid rgba(29, 77, 31, 0.747); 
->>>>>>> 2779dfb914236ef0c9545b6e85f79c40e491cf49
     font-size: 20px;
 }
 iframe {
