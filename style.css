@@ -34,24 +34,29 @@ body {
 }
 h1 {
     text-align: center;
-    color: darkgreen
+    color: black;
+    font-family: Andale Mono, monospace;
+    text-shadow: 2px 2px 8px white;
 }
 h2 {
     text-align: center;
-    color: darkgreen;
+    color: black;
+    font-family: Andale Mono, monospace;
+    text-shadow: 2px 2px 8px rgba(137, 224, 149, 0.89);
 
 }
 #aboutusp {
     padding: 40px;
     width: 300px;
-    background-color: rgba(233, 240, 235, 0.87);
+    background-color: rgba(228, 236, 228, 0.849);
     border: 6px solid grey; 
     font-size: 20px 
 
 }
 #beggingtext {
     padding: 40px;
-    background-color: rgba(202, 195, 195, 0.4);
+    background-color: rgba(230, 235, 230, 0.753);
+    border: 6px solid rgba(29, 77, 31, 0.747); 
     font-size: 20px;
 }
 iframe {
