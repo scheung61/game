@@ -53,5 +53,12 @@ h2 {
     padding: 40px;
     background-color: rgba(202, 195, 195, 0.4);
     font-size: 20px;
-
+}
+iframe {
+    display: block;
+    width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    border: 0;
+    align-content: center;
 }
