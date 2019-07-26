@@ -83,11 +83,24 @@ iframe {
     border: 3px solid rgba(29, 77, 31, 0.747);
     width: 300px
 }
-.amy {
+/* .amy {
     display: inline-block;
-}
+} */
 .gameimg {
-    width: 400px;
+    width: 600px;
     height: 400px;
+    text-align: center;  
+
+}
+#style {
+    float: right;
+    padding: 0 px;
+    margin-right: 15%;
 }
 
+/* .container{
+    display: inline-block;
+}
+.main-container{
+    display:grid;
+} */
